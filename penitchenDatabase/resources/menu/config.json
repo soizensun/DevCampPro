@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"idUser": {
+			"name": "idUser",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "idUser",
+			"order": 0
+		},
+		"nameMenu": {
+			"name": "nameMenu",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "nameMenu",
+			"order": 1
+		},
+		"idUnitM": {
+			"name": "idUnitM",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "idUnitM",
+			"order": 2
+		}
+	}
+}

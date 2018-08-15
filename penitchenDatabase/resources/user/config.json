@@ -1,0 +1,13 @@
+{
+	"type": "Collection",
+	"properties": {
+		"nameUser": {
+			"name": "nameUser",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "nameUser",
+			"order": 0
+		}
+	}
+}

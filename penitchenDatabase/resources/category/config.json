@@ -1,0 +1,13 @@
+{
+	"type": "Collection",
+	"properties": {
+		"stockCategory": {
+			"name": "stockCategory",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "stockCategory",
+			"order": 0
+		}
+	}
+}
